@@ -28,6 +28,6 @@
 ### 📊 GitHub Stats  
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sana-uzumki&show_icons=true&theme=react&hide_border=true" height="180" style="border-radius:%50;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-uzumki&layout=compact&theme=react&hide_border=true" height="180" style="border-radius:%50;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sana-uzumki&show_icons=true&theme=react&hide_border=true" height="180" style="border-radius:%75;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-uzumki&layout=compact&theme=react&hide_border=true" height="180" style="border-radius:%75;"/>
 </p>
