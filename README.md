@@ -18,7 +18,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python | Java | Shell  
+- **Languages**: Python | Java | Js | C | Php | Sql
 - **Domains**: Web3 | AI | Automation | Web & App Development  
 - **Tools**: Git | GitHub | Linux  
 
