@@ -47,4 +47,4 @@
   <a href="https://leetcode.com/u/sana_0630/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" style="border-radius:50%;" />
   </a>
-</p>[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sana_0630/)
+</p>
