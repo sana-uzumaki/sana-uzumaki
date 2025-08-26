@@ -15,9 +15,8 @@
 
 ### 🌐 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2&borderRadius=20 style="border-radius: %25")](https://www.linkedin.com/in/sanantheshwaran-e-238b32332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&color=FFA116&borderRadius=20)](https://leetcode.com/u/sana_0630/)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanantheshwaran-e-238b32332)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sana_0630/)
 ---
 
 ### 🧠 LeetCode Stats  
