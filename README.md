@@ -20,15 +20,15 @@
 
 ---
 
+### 🧠 LeetCode Stats  
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sana_0630?theme=dark&font=IBM%20Plex%20Mono)](https://leetcode.com/u/sana_0630/)
+
+---
+
 ### 📊 GitHub Stats  
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=sana-uzumki&show_icons=true&theme=react&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-uzumki&layout=compact&theme=react&hide_border=true" height="180"/>
 </p>
-
----
-
-### 🧠 LeetCode Stats  
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sana_0630?theme=dark&font=IBM%20Plex%20Mono)](https://leetcode.com/u/sana_0630/)
