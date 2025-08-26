@@ -48,17 +48,3 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" style="border-radius:50%;" />
   </a>
 </p>[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sana_0630/)
----
-
-### 🧠 LeetCode Stats  
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sana_0630?theme=dark&font=IBM%20Plex%20Mono)](https://leetcode.com/u/sana_0630/)
-
----
-
-### 📊 GitHub Stats  
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sana-uzumki&show_icons=true&theme=react&hide_border=true" height="180" style="border-radius:%75;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-uzumki&layout=compact&theme=react&hide_border=true" height="180" style="border-radius:%75;"/>
-</p>
