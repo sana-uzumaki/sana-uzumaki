@@ -46,7 +46,7 @@ Check out my live portfolio: [Sana's Portfolio](https://sana-protfolio.vercel.ap
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sana-uzumaki&show_icons=true&theme=react&hide_border=true" height="180" style="border-radius:50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-uzumaki&layout=compact&theme=react&hide_border=true" height="180" style="border-radius:50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=sana-uzumaki&layout=compact&theme=react&hide_border=true" height="180" style="border-radius:50%;" />
 </p>  
 
 ---
