@@ -34,7 +34,7 @@
 ---
 
 ## 🌐 My Portfolio
-Check out my live portfolio: [Sana's Portfolio](https://sana-protfolio.vercel.jxqt.app/)
+Check out my live portfolio: [Sana's Portfolio](https://sana-protfolio.vercel-jxqt.app/)
 
 ---
 
