@@ -33,6 +33,11 @@
 
 ---
 
+## 🌐 My Portfolio
+Check out my live portfolio: [Sana's Portfolio](https://sana-protfolio.vercel.app/)
+
+---
+
 ## 🧠 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sana_0630?theme=dark&font=IBM%20Plex%20Mono)](https://leetcode.com/u/sana_0630/)  
 
@@ -55,3 +60,4 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" style="border-radius:50%;" />
   </a>
 </p>
+
