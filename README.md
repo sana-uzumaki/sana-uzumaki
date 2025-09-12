@@ -69,7 +69,7 @@ Check out my live portfolio: [Sana's Portfolio](https://sana-protfolio-jxqt.verc
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-uzumaki&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-uzumaki&layout=compact" height="180"/>
 </p>
 
 ## 🌐 Connect with Me
