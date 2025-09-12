@@ -18,9 +18,25 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python | Java | Js | C | Php | Sql
-- **Domains**: Web3 | AI | Automation | Web & App Development  
-- **Tools**: Git | GitHub | Linux  
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Domains**  
+![Web3](https://img.shields.io/badge/Web3-EB5C20?style=for-the-badge&logo=web3.js&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-2C2C2C?style=for-the-badge&logo=gitlab&logoColor=white)
+![App Dev](https://img.shields.io/badge/App_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
