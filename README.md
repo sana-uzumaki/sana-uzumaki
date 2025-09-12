@@ -77,6 +77,7 @@ Check out my live portfolio: [Sana's Portfolio](https://sana-protfolio-jxqt.verc
   <a href="https://www.linkedin.com/in/sanantheshwaran-e-238b32332">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:50%;" />
   </a>
+</br>
   <a href="https://leetcode.com/u/sana_0630/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" style="border-radius:50%;" />
   </a>
