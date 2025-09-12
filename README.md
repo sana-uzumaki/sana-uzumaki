@@ -55,18 +55,22 @@ Check out my live portfolio: [Sana's Portfolio](https://sana-protfolio-jxqt.verc
 ---
 
 ## 🧠 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sana_0630?theme=dark&font=IBM%20Plex%20Mono)](https://leetcode.com/u/sana_0630/)  
+<p align="center">
+  <a href="https://leetcode.com/u/sana_0630/">
+    <img src="https://leetcard.jacoblin.cool/sana_0630?theme=dark&font=IBM%20Plex%20Mono" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sana-uzumaki&show_icons=true&theme=react&hide_border=true" height="180" style="border-radius:50%;" />
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sana-uzumaki&show_icons=true&theme=react&hide_border=true" height="180" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sana-uzumaki&layout=compact)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-uzumaki&layout=compact" />
+</p>
 
 ## 🌐 Connect with Me
 <p align="left">
