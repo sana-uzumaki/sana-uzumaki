@@ -44,7 +44,7 @@
 ---
 
 ## 🌐 My Portfolio
-Check out my live portfolio: [Sana's Portfolio](https://sana-codehub.vercel.app/)
+Check out my live portfolio: [My Portfolio](https://sana-codehub.vercel.app/)
 
 ---
 
@@ -61,12 +61,20 @@ Check out my live portfolio: [Sana's Portfolio](https://sana-codehub.vercel.app/
 ---
 
 ## 📊 GitHub Stats
+<h1 align="center">Hey 👋, I'm Sana</h1>
+<h3 align="center">🚀 AI Developer | Full Stack Learner | Problem Solver</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sana-uzumaki&show_icons=true&theme=react&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sana-uzumaki&show_icons=true&theme=react&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=sana-uzumaki&theme=react&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-uzumaki&layout=compact&show_icons=true&theme=react&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sana-uzumaki&layout=compact&theme=react&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sana-uzumaki&theme=react"/>
 </p>
 
 ## 🌐 Connect with Me
