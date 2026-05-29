@@ -84,6 +84,6 @@ I'm currently building projects that focus on solving practical problems and imp
 
 ## Connect
 
-![Linked-In](https://www.linkedin.com/in/sanantheshwaran-e)
+![]([https://www.linkedin.com/in/sanantheshwaran-e](https://img.icons8.com/?size=100&id=13930&format=png&color=000000))
 </br>
-![sana0630c@gmail.com](mailto:sana0630c@gmail.com)
+![sana0630c@gmail.com](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)
