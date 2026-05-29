@@ -84,5 +84,5 @@ I'm currently building projects that focus on solving practical problems and imp
 
 ## Connect
 
-* Linked-In: https://www.linkedin.com/in/sanantheshwaran-e
-* Email: [sana0630c@gmail.com](mailto:sana0630c@gmail.com)
+[Linked-In](https://www.linkedin.com/in/sanantheshwaran-e)
+[sana0630c@gmail.com](mailto:sana0630c@gmail.com)
