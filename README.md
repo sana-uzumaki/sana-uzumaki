@@ -1,23 +1,37 @@
+<!-- ===================================================================
+  GitHub profile README for sana-uzumaki
+  Theme: Dark Navy (#0B1220 / #0F1B33) + Teal (#14B8A6 / #2DD4BF)
+  Search for "TODO" to find every placeholder that still needs a real value.
+==================================================================== -->
+
 <div align="center">
 
-# Hi , I'm Sanantheshwaran
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&height=60&lines=Sanantheshwaran;Computer+Science+Student+%26+Developer;Learning+by+building.+Growing+by+solving." alt="Sanantheshwaran - Computer Science Student and Developer" />
 
-### CS Student • Builder • Problem Solver
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Developer;Backend+Engineering+Enthusiast;LeetCode+Problem+Solver;Learning+by+Building" />
+> **Curiosity creates the problem. Logic creates the solution. Bugs create the character.**
 
-<br/>
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sana-codehub.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanantheshwaran-e)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/sana_0630/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sana0630c@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F1B33?style=for-the-badge&logo=vercel&logoColor=2DD4BF)](https://sana-codehub.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0F1B33?style=for-the-badge&logo=leetcode&logoColor=2DD4BF)](https://leetcode.com/u/sana0630c/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0F1B33?style=for-the-badge&logo=codeforces&logoColor=2DD4BF)](https://codeforces.com/profile/YOUR-CODEFORCES-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F1B33?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-14B8A6?style=for-the-badge&logoColor=0B1220&labelColor=14B8A6)](YOUR-CONTACT-FORM-URL)
+<!-- TODO: replace the Codeforces, LinkedIn and Contact Me URLs above.
+     Contact Me can point to a contact form, a mailto-free scheduling page, or a section of your portfolio,
+     so your email address is never printed in this file. -->
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=sana-uzumaki&label=Profile+Views&color=14b8a6&style=flat-square" alt="Profile views counter" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science student who enjoys building software and solving problems through code.
 
@@ -29,122 +43,187 @@ I enjoy turning ideas into working projects and continuously pushing myself to l
 
 ---
 
-## 🚀 What I'm Working On
+## Technical Skills
 
-* 🔭 Building projects to strengthen my development skills
-* 🧠 Solving coding problems regularly on LeetCode
-* ⚙️ Exploring backend development and scalable applications
-* 🌱 Improving my understanding of software engineering fundamentals
+<table>
+  <tr>
+    <td width="200"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-0F1B33?style=flat-square&logo=python&logoColor=2DD4BF" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-0F1B33?style=flat-square&logo=openjdk&logoColor=2DD4BF" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript-0F1B33?style=flat-square&logo=javascript&logoColor=2DD4BF" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/C++-0F1B33?style=flat-square&logo=cplusplus&logoColor=2DD4BF" alt="C++" />
+      <img src="https://img.shields.io/badge/SQL-0F1B33?style=flat-square&logoColor=2DD4BF" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-0F1B33?style=flat-square&logo=react&logoColor=2DD4BF" alt="React" />
+      <img src="https://img.shields.io/badge/HTML5-0F1B33?style=flat-square&logo=html5&logoColor=2DD4BF" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-0F1B33?style=flat-square&logo=css3&logoColor=2DD4BF" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0F1B33?style=flat-square&logo=tailwindcss&logoColor=2DD4BF" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-0F1B33?style=flat-square&logo=nodedotjs&logoColor=2DD4BF" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-0F1B33?style=flat-square&logo=express&logoColor=2DD4BF" alt="Express.js" />
+      <img src="https://img.shields.io/badge/REST_API-0F1B33?style=flat-square&logoColor=2DD4BF" alt="REST API" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-0F1B33?style=flat-square&logo=mongodb&logoColor=2DD4BF" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0F1B33?style=flat-square&logo=postgresql&logoColor=2DD4BF" alt="PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools &amp; Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-0F1B33?style=flat-square&logo=git&logoColor=2DD4BF" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0F1B33?style=flat-square&logo=github&logoColor=2DD4BF" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Linux-0F1B33?style=flat-square&logo=linux&logoColor=2DD4BF" alt="Linux" />
+      <img src="https://img.shields.io/badge/VS_Code-0F1B33?style=flat-square&logo=visualstudiocode&logoColor=2DD4BF" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Vercel-0F1B33?style=flat-square&logo=vercel&logoColor=2DD4BF" alt="Vercel" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Skills & Tools
+## Interests and Focus Areas
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge\&logo=tailwind-css\&logoColor=38BDF8)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge\&logo=node.js\&logoColor=6CC24A)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-4B5563?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge\&logo=postgresql\&logoColor=336791)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge\&logo=vercel\&logoColor=white)
+- Artificial Intelligence and Machine Learning
+- Full-stack Web Development
+- Cloud Computing and DevOps
+- Data Structures and Algorithms
 
 ---
 
-## 📊 GitHub Statistics
+## Currently
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Working On</b>
+      <ul>
+        <li>Building full-stack projects with the help of AI</li>
+        <li>Developing practical software applications</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <b>Learning</b>
+      <ul>
+        <li>Electronics and hardware-based mini projects</li>
+        <li>New technologies through hands-on experimentation</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <b>Looking For</b>
+      <ul>
+        <li>Open-source contributions</li>
+        <li>Internship opportunities</li>
+        <li>Collaborative development projects</li>
+        <li>Opportunities to learn and work with other developers</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Oil Spill Detection &amp; Maritime Intelligence</h3>
+      <p>Team-based hackathon project focused on detecting oil spills and supporting maritime intelligence.</p>
+      <p><b>Tech stack:</b> TODO: add actual technologies<br />
+      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/YOUR-REPO-NAME">Add link</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Digital Risk Protection Platform</h3>
+      <p>Team-based hackathon project focused on identifying fake social media profiles, impersonation accounts, fraudulent company pages, and scam accounts across multiple platforms.</p>
+      <p><b>Tech stack:</b> TODO: add actual technologies<br />
+      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/YOUR-REPO-NAME">Add link</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Todo List Website</h3>
+      <p>Personal web development project for task management and productivity.</p>
+      <p><b>Tech stack:</b> TODO: confirm actual technologies<br />
+      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/YOUR-REPO-NAME">Add link</a><br />
+      <b>Live demo:</b> <!-- TODO --> <a href="YOUR-LIVE-DEMO-URL">Add link</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Personal Portfolio Website</h3>
+      <p>A portfolio showcasing my development skills and projects.</p>
+      <p><b>Tech stack:</b> TODO: confirm actual technologies<br />
+      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/YOUR-REPO-NAME">Add link</a><br />
+      <b>Live site:</b> <a href="https://sana-codehub.vercel.app/">sana-codehub.vercel.app</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sana-uzumaki&show_icons=true&theme=tokyonight&hide_border=true" />
+<picture>
+  <img src="./profile-summary-card-output/nord_dark/3-stats.svg" alt="GitHub profile statistics" width="49%" />
+</picture>
+<picture>
+  <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top languages by commits" width="49%" />
+</picture>
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sana-uzumaki&layout=compact&theme=tokyonight&hide_border=true" />
+<br />
+
+<img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repositories per language" width="49%" />
+<img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive time of day" width="49%" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sana-uzumaki&bg_color=0B1220&color=2DD4BF&line=14B8A6&point=E2E8F0&area=true&area_color=14B8A6&hide_border=true&title_color=2DD4BF" alt="Contribution activity graph" width="98%" />
+
+</div>
+
+<!-- The four SVG cards above are generated by .github/workflows/profile.yml and appear after the first run. -->
+
+### LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/sana0630c/">
+  <img src="https://leetcard.jacoblin.cool/sana0630c?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode statistics for sana0630c" />
+</a>
+
+</div>
+
+### Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sana-uzumaki/sana-uzumaki/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sana-uzumaki/sana-uzumaki/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sana-uzumaki/sana-uzumaki/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sana-uzumaki&theme=tokyo-night&hide_border=true"/>
+**Learning by building. Growing by solving.**
 
-</div>
-
----
-
-## ⚔️ LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/sana_0630/">
-    <img src="https://leetcard.jacoblin.cool/sana_0630?theme=dark&font=IBM%20Plex%20Mono&ext=contest" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/sana_0630/">
-    <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🚀 Projects
-
-I'm currently building projects that focus on solving practical problems and improving my full-stack development skills.
-
-<div align="center">
-
-### 🌐 Portfolio
-
-**https://sana-codehub.vercel.app/**
-
-</div>
-
----
-
-## 📬 Connect
-
-<div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanantheshwaran-e)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sana-codehub.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sana0630c@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/sana_0630/)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Built with Consistency. Improved with Curiosity.
-
-*Turning ideas into working software, one project at a time.*
+<sub>Thanks for stopping by. Feel free to explore my projects or reach out about collaborations.</sub>
 
 </div>
