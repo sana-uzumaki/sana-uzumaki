@@ -1,8 +1,7 @@
-name: Generate Snake
+name: Profile README assets
 
-# Builds the contribution snake and pushes it to the "output" branch,
-# which README.md reads the images from.
-# Place this file in sana-uzumaki/sana-uzumaki at .github/workflows/snake.yml
+# Generates the GitHub statistics cards and the contribution snake used by README.md.
+# Place this file in sana-uzumaki/sana-uzumaki at .github/workflows/profile.yml
 
 on:
   schedule:
@@ -15,7 +14,24 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  summary-cards:
+    name: Generate profile summary cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release/4
+        env:
+          # Optional: a personal access token (classic) with read:user and repo scopes,
+          # saved as a repository secret named METRICS_TOKEN. Falls back to the default token.
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: sana-uzumaki
+          THEMES: "nord_dark"
+
+  snake:
+    name: Generate contribution snake
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
