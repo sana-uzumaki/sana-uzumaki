@@ -16,8 +16,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F1B33?style=for-the-badge&logo=vercel&logoColor=2DD4BF)](https://sana-codehub.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0F1B33?style=for-the-badge&logo=leetcode&logoColor=2DD4BF)](https://leetcode.com/u/sana0630c/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-0F1B33?style=for-the-badge&logo=codeforces&logoColor=2DD4BF)](https://codeforces.com/profile/YOUR-CODEFORCES-HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F1B33?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0F1B33?style=for-the-badge&logo=codeforces&logoColor=2DD4BF)](https://codeforces.com/profile/sana0630c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F1B33?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/sanantheshwaran-e/)
 [![Contact Me](https://img.shields.io/badge/Contact_Me-14B8A6?style=for-the-badge&logoColor=0B1220&labelColor=14B8A6)](YOUR-CONTACT-FORM-URL)
 <!-- TODO: replace the Codeforces, LinkedIn and Contact Me URLs above.
      Contact Me can point to a contact form, a mailto-free scheduling page, or a section of your portfolio,
@@ -190,7 +190,7 @@ I enjoy turning ideas into working projects and continuously pushing myself to l
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sana-uzumaki&bg_color=0B1220&color=2DD4BF&line=14B8A6&point=E2E8F0&area=true&area_color=14B8A6&hide_border=true&title_color=2DD4BF" alt="Contribution activity graph" width="98%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sana-uzumaki&bg_color=0B1220&color=2DD4BF&line=14B8A6&point=E2E8F0&area=true&area_color=14B8A6&hide_border=true&title_color=2DD4BF" alt="Contribution activity graph" width="98%" /> -->
 
 </div>
 
@@ -205,6 +205,14 @@ I enjoy turning ideas into working projects and continuously pushing myself to l
 </a>
 
 </div>
+
+---
+
+### Contact Me
+
+[![Gmail](https://img.shields.io/badge/Portfolio-0F1B33?style=for-the-badge&logo=vercel&logoColor=2DD4BF)](sana0630c@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F1B33?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/sanantheshwaran-e/)
+[![Intagram](https://img.shields.io/badge/Contact_Me-14B8A6?style=for-the-badge&logoColor=0B1220&labelColor=14B8A6)](https://www.instagram.com/sana0630c/)
 
 ---
 
