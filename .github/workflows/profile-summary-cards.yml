@@ -1,27 +1,48 @@
-name: Profile Summary Cards
+name: Profile README assets
+
+# Generates the GitHub statistics cards and the contribution snake used by README.md.
+# Place this file in the profile repository (sana-uzumaki/sana-uzumaki) at .github/workflows/profile.yml
 
 on:
-  # Refresh the cards every day at 00:00 UTC
   schedule:
-    - cron: "0 0 * * *"
-  # Adds a "Run workflow" button in the Actions tab (use it for the first run)
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
 permissions:
   contents: write
 
 jobs:
-  generate:
-    name: Generate GitHub summary cards
+  summary-cards:
+    name: Generate profile summary cards
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@release/4
         env:
-          # The built-in token covers public activity. See the notes below
-          # if you want private contributions included.
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional but recommended: a personal access token (classic) with read:user and repo scopes,
+          # saved as a repository secret named METRICS_TOKEN. Falls back to the default token if absent.
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: main
+          THEMES: "nord_dark"
+
+  snake:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
