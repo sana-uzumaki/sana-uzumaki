@@ -1,7 +1,8 @@
-name: Profile README assets
+name: Generate Snake
 
-# Generates the GitHub statistics cards and the contribution snake used by README.md.
-# Place this file in the profile repository (sana-uzumaki/sana-uzumaki) at .github/workflows/profile.yml
+# Builds the contribution snake and pushes it to the "output" branch,
+# which README.md reads the images from.
+# Place this file in sana-uzumaki/sana-uzumaki at .github/workflows/snake.yml
 
 on:
   schedule:
@@ -14,33 +15,20 @@ permissions:
   contents: write
 
 jobs:
-  summary-cards:
-    name: Generate profile summary cards
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/4
-        env:
-          # Optional but recommended: a personal access token (classic) with read:user and repo scopes,
-          # saved as a repository secret named METRICS_TOKEN. Falls back to the default token if absent.
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
-          USERNAME: ${{ github.repository_owner }}
-          THEMES: "nord_dark"
-
-  snake:
-    name: Generate contribution snake
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: sana-uzumaki
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
