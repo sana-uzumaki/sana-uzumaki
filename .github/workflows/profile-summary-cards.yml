@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/4
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.13.0
         env:
           # Optional: a personal access token (classic) with read:user and repo scopes,
           # saved as a repository secret named METRICS_TOKEN. Falls back to the default token.
