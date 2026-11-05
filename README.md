@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&height=60&lines=Sanantheshwaran;Computer+Science+Student+%26+Developer;Learning+by+building.+Growing+by+solving." alt="Sanantheshwaran - Computer Science Student and Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&height=60&lines=Sanantheshwaran;Computer+Science+Student+%26+Developer" alt="Sanantheshwaran - Computer Science Student and Developer" />
 
 <br />
 
