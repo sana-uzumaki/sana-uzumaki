@@ -149,8 +149,8 @@ I enjoy turning ideas into working projects and continuously pushing myself to l
       <h3>Digital Risk Protection Platform</h3>
       <p>Team-based hackathon project focused on identifying fake social media profiles, impersonation accounts, fraudulent company pages, and scam accounts across multiple platforms.</p>
       <p><b>Tech stack:</b> TODO: add actual technologies<br />
-      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/Anti-brand-project">Anti-brand-project</a></p>
-      <b>Live demo:</b> <a href="https://anti-brand-project.vercel.app/">anti-brand-project.vercel.app</a>
+      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/Anti-brand-project">Anti-brand-project</a>
+      <b>Live demo:</b> <a href="https://anti-brand-project.vercel.app/">anti-brand-project.vercel.app</a></p>
     </td>
   </tr>
   <tr>
@@ -165,7 +165,7 @@ I enjoy turning ideas into working projects and continuously pushing myself to l
       <h3>Personal Portfolio Website</h3>
       <p>A portfolio showcasing my development skills and projects.</p>
       <p><b>Tech stack:</b> TODO: confirm actual technologies<br />
-      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/sana-portfolio">sana-portfolio</a>
+      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/sana-portfolio">sana-portfolio</a><br /> 
       <b>Live demo:</b> <a href="https://sana-codehub.vercel.app/">sana-codehub.vercel.app</a></p>
     </td>
   </tr>
