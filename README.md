@@ -149,7 +149,7 @@ I enjoy turning ideas into working projects and continuously pushing myself to l
       <h3>Digital Risk Protection Platform</h3>
       <p>Team-based hackathon project focused on identifying fake social media profiles, impersonation accounts, fraudulent company pages, and scam accounts across multiple platforms.</p>
       <p><b>Tech stack:</b> TODO: add actual technologies<br />
-      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/Anti-brand-project">Anti-brand-project</a>
+      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/Anti-brand-project">Anti-brand-project</a><br />
       <b>Live demo:</b> <a href="https://anti-brand-project.vercel.app/">anti-brand-project.vercel.app</a></p>
     </td>
   </tr>
