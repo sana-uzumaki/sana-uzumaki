@@ -149,7 +149,8 @@ I enjoy turning ideas into working projects and continuously pushing myself to l
       <h3>Digital Risk Protection Platform</h3>
       <p>Team-based hackathon project focused on identifying fake social media profiles, impersonation accounts, fraudulent company pages, and scam accounts across multiple platforms.</p>
       <p><b>Tech stack:</b> TODO: add actual technologies<br />
-      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/YOUR-REPO-NAME">Add link</a></p>
+      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/Anti-brand-project">Anti-brand-project</a></p>
+      <b>Live demo:</b> <a href="https://anti-brand-project.vercel.app/">anti-brand-project.vercel.app</a>
     </td>
   </tr>
   <tr>
@@ -157,14 +158,14 @@ I enjoy turning ideas into working projects and continuously pushing myself to l
       <h3>Todo List Website</h3>
       <p>Personal web development project for task management and productivity.</p>
       <p><b>Tech stack:</b> TODO: confirm actual technologies<br />
-      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/YOUR-REPO-NAME">Add link</a><br />
-      <b>Live demo:</b> <!-- TODO --> <a href="YOUR-LIVE-DEMO-URL">Add link</a></p>
+      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/Todo-List">Todo-List</a><br />
+      <b>Live demo:</b> <!-- TODO --> <a href="https://sana-todo-list.vercel.app/">sana-todo-list.vercel.app</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Personal Portfolio Website</h3>
       <p>A portfolio showcasing my development skills and projects.</p>
       <p><b>Tech stack:</b> TODO: confirm actual technologies<br />
-      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/YOUR-REPO-NAME">Add link</a><br />
+      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/sana-portfolio">sana-portfolio</a><br />
       <b>Live site:</b> <a href="https://sana-codehub.vercel.app/">sana-codehub.vercel.app</a></p>
     </td>
   </tr>
