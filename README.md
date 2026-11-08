@@ -165,8 +165,8 @@ I enjoy turning ideas into working projects and continuously pushing myself to l
       <h3>Personal Portfolio Website</h3>
       <p>A portfolio showcasing my development skills and projects.</p>
       <p><b>Tech stack:</b> TODO: confirm actual technologies<br />
-      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/sana-portfolio">sana-portfolio</a><br />
-      <b>Live site:</b> <a href="https://sana-codehub.vercel.app/">sana-codehub.vercel.app</a></p>
+      <b>Repository:</b> <!-- TODO --> <a href="https://github.com/sana-uzumaki/sana-portfolio">sana-portfolio</a>
+      <b>Live demo:</b> <a href="https://sana-codehub.vercel.app/">sana-codehub.vercel.app</a></p>
     </td>
   </tr>
 </table>
